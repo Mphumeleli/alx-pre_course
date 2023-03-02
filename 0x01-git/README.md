@@ -1,2 +1,2 @@
 my first commit
-my firs readme is up-to-date now
+my first readme is up-to-date now
